@@ -1,8 +1,8 @@
-export const scrollAndLoad = () => {
-    let lastScrollHeight = myDiv.scrollHeight;
-    targetDiv.scrollTop = myDiv.scrollHeight;
+export const scrollAndLoad = (targetDiv) => {
+    let lastScrollHeight = targetDiv.scrollHeight;
+    targetDiv.scrollTop = targetDiv.scrollHeight;
     setTimeout(function() {
-        if (myDiv.scrollHeight > lastScrollHeight) {
+        if (targetDiv.scrollHeight > lastScrollHeight) {
             scrollAndLoad();
         } else {
             console.log("Reached the bottom or no more content is loading.");

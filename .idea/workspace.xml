@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fdfd012-6135-49c4-aa49-91219eff4aed" name="Changes" comment="" />
+    <list default="true" id="6fdfd012-6135-49c4-aa49-91219eff4aed" name="Changes" comment="feat: init">
+      <change afterPath="$PROJECT_DIR$/checkPrv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrape.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/scroll.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "pr0meth4us"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/pr0meth4us/IG-follows.git",
+    "accountId": "ea424783-d92e-4b89-9539-896382ff82b3"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -31,6 +51,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Node.js.checkPrv.js.executor": "Run",
+    "Node.js.index.js.executor": "Run",
     "Node.js.scrape.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -64,8 +86,17 @@
       <updated>1720359443161</updated>
       <workItem from="1720359444371" duration="2530000" />
       <workItem from="1720361986115" duration="982000" />
-      <workItem from="1720364086645" duration="1785000" />
+      <workItem from="1720364086645" duration="3636000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: init">
+      <option name="closed" value="true" />
+      <created>1720366104895</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720366104895</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,5 +106,9 @@
         <option value="$PROJECT_DIR$/tests-examples/demo-todo-app.spec.js" />
       </list>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: init" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: init" />
   </component>
 </project>
